@@ -1,0 +1,62 @@
+[
+	{
+		"ciudad": "Medellin",
+		"almacen": "La 30",
+		"mes": "Enero",
+		"venta": 1000
+	},
+	{
+		"ciudad": "Medellin",
+		"almacen": "La 30",
+		"mes": "Febrero",
+		"venta": 800
+	},
+	{
+		"ciudad": "Medellin",
+		"almacen": "Los alpes",
+		"mes": "Enero",
+		"venta": 1200
+	},
+	{
+		"ciudad": "Medellin",
+		"almacen": "Los alpes",
+		"mes": "Febrero",
+		"venta": 1000
+	},
+	{
+		"ciudad": "Medellin",
+		"almacen": "Los alpes",
+		"mes": "Marzo",
+		"venta": 2000
+	},
+	{
+		"ciudad": "Cali",
+		"almacen": "La 30",
+		"mes": "Enero",
+		"venta": 500
+	},
+	{
+		"ciudad": "Cali",
+		"almacen": "La 30",
+		"mes": "Febrero",
+		"venta": 400
+	},
+	{
+		"ciudad": "Cali",
+		"almacen": "Los alpes",
+		"mes": "Enero",
+		"venta": 800
+	},
+	{
+		"ciudad": "Cali",
+		"almacen": "Los alpes",
+		"mes": "Febrero",
+		"venta": 700
+	},
+	{
+		"ciudad": "Cali",
+		"almacen": "Los alpes",
+		"mes": "Marzo",
+		"venta": 600
+	}
+]
